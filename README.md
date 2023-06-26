@@ -12,6 +12,7 @@ Este repositório contém uma coleção de trabalhos que desenvolvi durante minh
 ## Programação de Computadores II - PROG II
 
 - **Atividades Desenvolvidas em laboratório.**
+- **Trabalho 2:** Simulador de Aeroporto.
 - **Trabalho 1:** Simulador de Consultório.
 
 ## Programação de Computadores I - PROG I
